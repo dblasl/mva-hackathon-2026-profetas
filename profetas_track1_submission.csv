@@ -1,0 +1,6 @@
+proband_id;chrom_1;pos_1;ref_1;alt_1;chrom_2;pos_2;ref_2;alt_2;epcr;finding_type;notes
+PROBAND01;chr15;40520206;CGTGTGT;C;chr15;40520197;TTG;T;1.0;primary;BUB1B compound heterozygous loss-of-function (frameshift/truncating) causal candidate for MVA type 1
+PROBAND01;chr11;96041506;AGGAAGGAAG;A;;;;;1.0;primary;CEP57 truncating mutation associated with MVA type 2 / pericentriolar disease etiology
+PROBAND01;chr11;95685825;GTTA;G;;;;;0.95;primary;CEP57 high-impact splice donor disruption near centrosome duplication locus
+PROBAND01;chr11;95698518;A;AT;;;;;0.9;primary;CEP57 frameshift insertion altering microtubule binding domain
+PROBAND01;chr15;40518900;C;T;;;;;0.85;primary;BUB1B missense deleterious candidate in SAC checkpoint domain
